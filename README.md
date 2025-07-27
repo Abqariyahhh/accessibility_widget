@@ -70,7 +70,7 @@ a11y-widget/
 git clone https://github.com/Abqariyahhh/accessibility_widget.git
 
 # Navigate to project folder
-cd a11y-widget
+cd accessibility_widget.git
 
 # Install dependencies
 npm install
