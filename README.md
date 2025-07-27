@@ -67,7 +67,7 @@ a11y-widget/
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/a11y-widget.git
+git clone https://github.com/Abqariyahhh/accessibility_widget.git
 
 # Navigate to project folder
 cd a11y-widget
